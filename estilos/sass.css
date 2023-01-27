@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #2e036e;
+  height: 100px;
+}
+header .logo {
+  display: flex;
+  float: left;
+  margin-top: -30px;
+  margin-left: 40px;
+  height: 130px;
+  width: auto;
+}
+header ul li {
+  display: flex;
+  text-decoration: none;
+  list-style-type: none;
+  float: right;
+  padding: 0px 20px;
+}
+header ul li a {
+  color: white;
+}
+header ul li a:hover {
+  color: #e39330;
+  text-decoration: none;
+  scale: 1.2;
+}/*# sourceMappingURL=sass.css.map */

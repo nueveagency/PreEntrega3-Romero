@@ -1,0 +1,43 @@
+header {
+    background-color: #2e036e;
+    height: 100px;
+
+        .logo {
+        display: flex;
+        float: left;
+        margin-top: -30px;
+        margin-left: 40px;
+        height: 130px;
+        width: auto;
+        
+        }
+
+        ul li{
+        display: flex;
+        text-decoration: none;
+        list-style-type: none;
+        float: right;
+        padding: 0px 20px;
+            
+            a {
+            color: white;
+                }
+
+            a:hover {
+            color:#e39330;
+            text-decoration: none;
+            scale: 1.2 ;
+                }
+    
+        }
+
+        
+
+        }
+
+
+
+
+
+
+
